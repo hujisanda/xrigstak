@@ -41,4 +41,4 @@
  *    randomx_safex
  */
 
-"currency" : "monero",
+"currency" : "randomx",
